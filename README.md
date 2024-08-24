@@ -4,8 +4,11 @@ QCIR support in Vim
 This plugin supports syntax highlighting and some basic file type settings for the
 SAT/QBF problem specification file format QCIR.
 
-<!-- News -->
-<!-- ------------------------------------------------------------------------------------------ -->
+News
+------------------------------------------------------------------------------------------
+
+- `v0.1.1`
+  Fix bug in file type detection
 
 How to Install
 ------------------------------------------------------------------------------------------
